@@ -88,6 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 .name {
     font-size: 1.75rem;
     font-weight: 900;
+    word-spacing: 8px;
 }
 
 .title {
